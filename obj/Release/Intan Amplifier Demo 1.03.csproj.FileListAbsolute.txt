@@ -1,0 +1,24 @@
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\libfftw3-3.dll
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\Interop.cs
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\Intan Amplifier Demo 1.03.exe.manifest
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\Intan Amplifier Demo 1.03.application
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\Intan Amplifier Demo 1.03.exe
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\Intan Amplifier Demo 1.03.pdb
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\FTD2XX_NET.dll
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\MathNet.Numerics.dll
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\System.Threading.dll
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\FTD2XX_NET.xml
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\MathNet.Numerics.xml
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\bin\Release\System.Threading.xml
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\USB_Scope.AboutForm.resources
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\USB_Scope.ChannelSelectionForm.resources
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\USB_Scope.frmSplashScreen.resources
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\USB_Scope.MagnifyForm.resources
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\USB_Scope.MainForm.resources
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\Intan_Amplifier_Demo_1._03.Properties.Resources.resources
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\Intan Amplifier Demo 1.03.csproj.GenerateResource.Cache
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\Intan Amplifier Demo 1.03.exe.manifest
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\Intan Amplifier Demo 1.03.application
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\Intan Amplifier Demo 1.03.exe
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\Intan Amplifier Demo 1.03.pdb
+D:\Dropbox\ClosedLoop\Intan_Amplifier_Demo_1_03_Source_v2\Intan Amplifier Demo 1.03\obj\Release\Intan Amplifier Demo 1.03.csprojResolveAssemblyReference.cache
